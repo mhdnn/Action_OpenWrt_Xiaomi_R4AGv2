@@ -12,3 +12,5 @@ rm -rf package/luci-theme-argon
 rm -rf package/luci-app-argon-config
 sudo git clone https://github.com/jerrykuku/luci-theme-argon.git package/luci-theme-argon
 sudo git clone https://github.com/jerrykuku/luci-app-argon-config.git package/luci-app-argon-config
+sudo git clone https://github.com/sensec/luci-app-udp2raw.git
+sudo git clone https://github.com/sensec/openwrt-udp2raw.git
